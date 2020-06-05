@@ -1,0 +1,39 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev src/server.ts",
+    "knex:migrate": "knex --ignore-watch node_modules --knexfile knexfile.ts migrate:latest",
+    "knex:seed": "knex --knexfile knexfile.ts seed:run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cors": "^2.8.6",
+    "@types/multer": "^1.4.3",
+    "axios": "^0.19.2",
+    "celebrate": "^12.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "leaflet": "^1.6.0",
+    "multer": "^1.4.2",
+    "react-icons": "^3.10.0",
+    "react-leaflet": "^2.7.0",
+    "react-router-dom": "^5.2.0",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/hapi__joi": "^17.1.2",
+    "@types/react-leaflet": "^2.5.1",
+    "@types/react-router-dom": "^5.1.5",
+    "ts-node": "^8.10.2",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.3"
+  }
+}
