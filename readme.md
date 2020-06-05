@@ -1,4 +1,4 @@
-# NLW Project
+# NLW Project :rocket:
 
 # Next Level Week
 
@@ -12,6 +12,14 @@ O projeto utiliza como suas principais tecnologias:
 - Typescript
 
 Dentro desse ecossistema, diversas outras bibliotecas foram utilizadas em conjunto para que a aplicação fosse desenvolvida da melhor forma possível.
+
+## Resultado visual
+
+O design da aplicação foi desenvolvido pelos colaboradores por trás do evento, sendo o objetivo do evento a codificação deste design nas tecnologias citadas.
+
+![Página inicial da aplicação web](https://i.imgur.com/5HA5guV.png)
+
+![Parte da página de cadastro da aplicação web](https://i.imgur.com/u53LzKl.png)
 
 ## Principais desafios na visão do autor
 
