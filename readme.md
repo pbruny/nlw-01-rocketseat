@@ -1,6 +1,6 @@
 # NLW Project
 
-# Nexte Level Week
+# Next Level Week
 
 Os projetos desenvolvidos neste repositório foram orientados pela Rocketseat em um evento online chamado Next Level Week.
 
